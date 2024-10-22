@@ -1,7 +1,6 @@
-### Olá, eu sou a Taís 👋
-- :computer: Analista de Qualidade de Software 🚀
-
-<h3>Tecnologias:</h3>
+Hello 👋
+:computer: Software Quality Assurance Analyst 🚀
+<h3>Technologies:</h3>
 
 <div style="display: flex; flex-wrap: wrap;">
     <img src="https://img.shields.io/badge/Testing-K6-informational?style=flat&logo=k6&logoColor=white&color=23A0DA" alt="k6" height="20" style="margin: 5px;">
