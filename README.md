@@ -1,7 +1,9 @@
 ### Olá, eu sou a Taís 👋
-
-- :mortar_board: Graduada em Sistemas de Informação
 - :computer: Analista de Qualidade de Software 🚀
+
+<h3>Tecnologias que Utilizo</h3>
+<p>Sou apaixonada por garantir a qualidade e a eficiência das aplicações que desenvolvo. Aqui estão algumas das tecnologias e ferramentas que utilizo no meu trabalho para alcançar esses objetivos:</p>
+
   
 <div style="display: flex; flex-wrap: wrap;">
     <img src="https://img.shields.io/badge/Testing-K6-informational?style=flat&logo=k6&logoColor=white&color=23A0DA" alt="k6" height="20" style="margin: 5px;">
