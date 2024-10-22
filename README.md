@@ -1,7 +1,7 @@
-Hello 👋
-:computer: Software Quality Assurance Analyst 🚀
-<h3>Technologies:</h3>
+### Hello 👋
+I am a Software Quality Assurance Analyst 🚀
 
+<h3>Technologies:</h3>
 <div style="display: flex; flex-wrap: wrap;">
     <img src="https://img.shields.io/badge/Testing-K6-informational?style=flat&logo=k6&logoColor=white&color=23A0DA" alt="k6" height="20" style="margin: 5px;">
     <img src="https://img.shields.io/badge/Testing-Cypress-informational?style=flat&logo=cypress&logoColor=white&color=4A6A9D" alt="Cypress" height="20" style="margin: 5px;">
