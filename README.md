@@ -1,18 +1,22 @@
 ### Olá, eu sou a Taís 👋
 
 - :mortar_board: Graduada em Sistemas de Informação
-- :computer: Analista de Qualidade de Software 
-
-Possuo experiência em automação de testes e um forte interesse em garantir a qualidade e a performance de aplicações. Tenho um histórico em ferramentas como k6, Cypress, Appium e Playwright, e sou apaixonada por melhorar processos de testes e aumentar a eficiência em projetos de software. Aqui, você encontrará repositórios com scripts de teste, automação e projetos que desenvolvo para aprimorar minhas habilidades e compartilhar conhecimento. Vamos construir um software com qualidade juntos! 🚀
+- :computer: Analista de Qualidade de Software 🚀
 
 <div style="display: flex; flex-wrap: wrap;">
     <img src="https://img.shields.io/badge/Testing-K6-informational?style=flat&logo=k6&logoColor=white&color=23A0DA" alt="k6" width="100" height="30" style="max-width: 100%;">
     <img src="https://img.shields.io/badge/Testing-Cypress-informational?style=flat&logo=cypress&logoColor=white&color=4A6A9D" alt="Cypress" width="100" height="30" style="max-width: 100%;">
     <img src="https://img.shields.io/badge/Testing-Appium-informational?style=flat&logo=appium&logoColor=white&color=E0C564" alt="Appium" width="100" height="30" style="max-width: 100%;">
     <img src="https://img.shields.io/badge/Testing-Playwright-informational?style=flat&logo=playwright&logoColor=white&color=1E1E1E" alt="Playwright" width="100" height="30" style="max-width: 100%;">
-    <img src="https://img.shields.io/badge/Versioning-Git-informational?style=flat&logo=git&logoColor=white&color=F05032" alt="Git" width="100" height="30" style="max-width: 100%;">
-    <img src="https://img.shields.io/badge/CI/CD-Azure%20DevOps-informational?style=flat&logo=azuredevops&logoColor=white&color=0078D7" alt="Azure DevOps" width="100" height="30" style="max-width: 100%;">
-    <img src="https://img.shields.io/badge/Cloud-Amazon%20S3-informational?style=flat&logo=amazonaws&logoColor=white&color=569A31" alt="Amazon S3" width="100" height="30" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/Testing-Robot-informational?style=flat&logo=robotframework&logoColor=white&color=00A1FF" alt="Robot" width="100" height="30" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/Containerization-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED" alt="Docker" width="100" height="30" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E" alt="JavaScript" width="100" height="30" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/Language-Java-informational?style=flat&logo=java&logoColor=white&color=007396" alt="Java" width="100" height="30" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB" alt="Python" width="100" height="30" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/Testing-Selenium-informational?style=flat&logo=selenium&logoColor=white&color=43B02A" alt="Selenium" width="100" height="30" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/Testing-Cucumber-informational?style=flat&logo=cucumber&logoColor=white&color=00B388" alt="Cucumber" width="100" height="30" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/Testing-Postman-informational?style=flat&logo=postman&logoColor=white&color=FF6B37" alt="Postman" width="100" height="30" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/Testing-Puppeteer-informational?style=flat&logo=puppeteer&logoColor=white&color=1E1E1E" alt="Puppeteer" width="100" height="30" style="max-width: 100%;">
 </div>
 
 
